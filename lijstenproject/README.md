@@ -1,0 +1,2 @@
+# lijstenVoorVenn
+excel -> lijsten -> venndiagram
